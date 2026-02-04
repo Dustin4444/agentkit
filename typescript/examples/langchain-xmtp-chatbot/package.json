@@ -22,7 +22,7 @@
     "@langchain/core": "^0.3.19",
     "@langchain/langgraph": "^0.2.21",
     "@langchain/openai": "^0.3.14",
-    "@xmtp/agent-sdk": "^1.1.4",
+    "@xmtp/agent-sdk": "^2.0.0",
     "@xmtp/content-type-transaction-reference": "^2.0.2",
     "@xmtp/content-type-wallet-send-calls": "^2.0.0",
     "dotenv": "^16.4.5",
